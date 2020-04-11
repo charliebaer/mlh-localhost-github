@@ -32,6 +32,7 @@ Sydney, Australia
 Vancouver, Canada
 Toronto, Canada
 Tokyo, Japan
+Hyderabad,India
 Kushiro, Japan
 Copenhagen, Denmark
 Adelaide, Australia
